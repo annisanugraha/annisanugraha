@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&pause=1800&color=FFFFFF&background=000000&center=true&vCenter=true&width=700&height=60&lines=FRONTEND+DEVELOPER;UI-UX+DESIGNER;INFORMATICS+ENGINEERING+STUDENT;ANNISA+NUGRAHA" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&pause=1800&color=FFFFFF&background=000000&center=true&vCenter=true&width=920&height=65&lines=FRONTEND+DEVELOPER;UI-UX+DESIGNER;INFORMATICS+ENGINEERING+STUDENT;ANNISA+NUGRAHA" alt="typing-svg" width="100%" />
 
 <br />
 
@@ -45,7 +45,7 @@ TOOLING     :: GIT / GITHUB / VS CODE / AGILE
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=annisanugraha&show_icons=true&hide_title=true&hide_border=true&border_radius=0&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="48%" alt="github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annisanugraha&layout=compact&hide_border=true&border_radius=0&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_title=true" width="38%" alt="top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annisanugraha&hide_border=true&border_radius=0&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_title=true&langs_count=6" width="48%" alt="top languages" />
 
 </div>
 
