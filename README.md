@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Icha! 👋
 
-<!--
-**annisanugraha/annisanugraha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Informatics Engineering student and a passionate **Frontend Developer & UI/UX Designer**. I specialize in bridging the gap between deep user empathy and efficient, scalable code. 
 
-Here are some ideas to get you started:
+### 💡 What I Do
+* 🎨 **UI/UX Design:** Wireframing, Prototyping, and Design Thinking (Figma & Canva).
+* 💻 **Frontend Development:** Building responsive and dynamic interfaces using Next.js, React, Tailwind CSS, and TypeScript.
+* 🚀 **Current Focus:** Creating human-centric digital products that transform complex data into clear, accessible experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Design:** Figma, Canva, CorelDraw
+* **Frontend:** Next.js, React.js, Tailwind CSS, Shadcn/UI, Framer Motion
+* **Languages:** TypeScript, JavaScript, PHP, Java, Python, C++
+* **Others:** Git/GitHub, VSCode, Agile Methodology
+
+### ⚡ Beyond the Code
+When I'm not designing interfaces or debugging components, you can probably find me:
+* 🖌️ Doing digital or traditional watercolor illustrations.
+* 🎮 Exploring Teyvat in Genshin Impact.
+* 🎧 Listening to Day6.
+* 🐾 Hanging out with my five cats (Kiki, Ryuki, Oki, Tobi, and Chocomelon).
+
+---
+📫 **Let's Connect!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/annisa-angelica-nugraha/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-success?style=flat-square)](https://icha-portofolio.vercel.app/)
