@@ -6,7 +6,7 @@
 
 # 𝐇𝐈, 𝐈 𝐀𝐌 𝐈𝐂𝐇𝐀 🍀
 
-`FRONTEND DEVELOPMENT` × `UI/UX DESIGN` × `INFORMATICS ENGINEERING` ♣
+`FRONTEND DEVELOPMENT` × `UI/UX DESIGN` × `INFORMATICS ENGINEERING`
 
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge)](https://icha-portofolio.vercel.app/)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annisa-angelica-nugraha/)
