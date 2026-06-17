@@ -6,7 +6,7 @@
 
 # A N N I S A &nbsp; N U G R A H A
 
-`FRONTEND DEVELOPMENT` × `UI/UX DESIGN` × `INFORMATICS ENGINEERING`
+`FRONTEND DEVELOPMENT` × `UI/UX DESIGN` × `INFORMATICS ENGINEERING` ♣
 
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge)](https://icha-portofolio.vercel.app/)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annisa-angelica-nugraha/)
@@ -15,16 +15,16 @@
 </div>
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+♣ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ♣
 ```
 
-### 00 / INTRO
+### ♣ 00 — INTRO
 
 Informatics Engineering student building a practice at the intersection of design and code. I bridge user empathy and scalable engineering — turning ambiguous problems into interfaces that are clear, accessible, and built to last.
 
 ---
 
-### 01 / FOCUS
+### ♣ 01 — FOCUS
 
 | № | AREA | DETAIL |
 |:---:|:---|:---|
@@ -34,7 +34,7 @@ Informatics Engineering student building a practice at the intersection of desig
 
 ---
 
-### 02 / STACK
+### ♣ 02 — STACK
 
 ```
 DESIGN      :: FIGMA / CANVA / CORELDRAW
@@ -51,20 +51,20 @@ TOOLING     :: GIT / GITHUB / VS CODE / AGILE
 
 ---
 
-### 03 / BEYOND CODE
+### ♣ 03 — BEYOND CODE
 
 ```
-—  WATERCOLOR ILLUSTRATION, DIGITAL & TRADITIONAL
-—  GAMING, FOR RECHARGE & FRESH INSPIRATION
-—  MUSIC, ALMOST ALWAYS PLAYING
-—  CATS, ALMOST ALWAYS NEARBY
+♣  WATERCOLOR ILLUSTRATION, DIGITAL & TRADITIONAL
+♣  GAMING, FOR RECHARGE & FRESH INSPIRATION
+♣  MUSIC, ALMOST ALWAYS PLAYING
+♣  CATS, ALMOST ALWAYS NEARBY
 ```
 
 ---
 
 <div align="center">
 
-### 04 / SAY HI
+### ♣ 04 — SAY HI
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annisa-angelica-nugraha/)
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge)](https://icha-portofolio.vercel.app/)
@@ -72,7 +72,7 @@ TOOLING     :: GIT / GITHUB / VS CODE / AGILE
 <br />
 
 ```
-ANNISA NUGRAHA — PORTFOLIO — ANNISA NUGRAHA — PORTFOLIO — ANNISA NUGRAHA — PORTFOLIO —
+ANNISA NUGRAHA ♣ PORTFOLIO ♣ ANNISA NUGRAHA ♣ PORTFOLIO ♣ ANNISA NUGRAHA ♣ PORTFOLIO ♣
 ```
 
 </div>
