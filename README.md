@@ -16,9 +16,9 @@ I'm an Informatics Engineering student and a passionate **Frontend Developer & U
 ### ⚡ Beyond the Code
 When I'm not designing interfaces or debugging components, you can probably find me:
 * 🖌️ Doing digital or traditional watercolor illustrations.
-* 🎮 Exploring Teyvat in Genshin Impact.
-* 🎧 Listening to Day6.
-* 🐾 Hanging out with my five cats (Kiki, Ryuki, Oki, Tobi, and Chocomelon).
+* 🎮 Playing games to recharge my energy and find fresh inspiration.
+* 🎧 Listening to Music.
+* 🐾 Hanging out with my beloved cats.
 
 ---
 📫 **Let's Connect!**
