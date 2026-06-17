@@ -8,9 +8,17 @@ I'm an Informatics Engineering student and a passionate **Frontend Developer & U
 * 🚀 **Current Focus:** Creating human-centric digital products that transform complex data into clear, accessible experiences.
 
 ### 🛠️ Tech Stack & Tools
+
+**🔥 Top Languages (Auto-Updated from Repos):**  
+<p align="left">
+  <a href="https://github.com/annisanugraha">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annisanugraha&layout=compact&theme=radical&hide_border=true" alt="Annisanugraha's Top Languages" />
+  </a>
+</p>
+
+**🎨 Design, Frameworks & Tools:**  
 * **Design:** Figma, Canva, CorelDraw
 * **Frontend:** Next.js, React.js, Tailwind CSS, Shadcn/UI, Framer Motion
-* **Languages:** TypeScript, JavaScript, PHP, Java, Python, C++
 * **Others:** Git/GitHub, VSCode, Agile Methodology
 
 ### ⚡ Beyond the Code
